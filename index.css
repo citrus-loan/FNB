@@ -1,6 +1,7 @@
 img{
-    width: 100%;
+    width: 60%;
     margin-top: 25%;
+    clip-path: circle(50%);
 }
 div{
     text-align: center;
